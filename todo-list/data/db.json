@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "day": "Thursday",
+      "task": "Reading Novel, Going through some React concepts and enjoying life😋😋😎",
+      "owner": "Yobra",
+      "id": 4
+    },
+    {
+      "day": "Friday",
+      "task": "watch ktn2 at 8pm Mr Eazy",
+      "owner": "Musili",
+      "id": 5
+    }
+  ]
+}

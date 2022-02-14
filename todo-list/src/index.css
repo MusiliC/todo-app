@@ -1,0 +1,120 @@
+*{
+  margin: 0;
+  color: #333;
+}
+
+.navbar{
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid grey;
+}
+
+.navbar h1{
+  color: red;
+}
+
+
+.navbar .Links{
+    margin-left: auto;
+}
+
+.navbar a{
+  margin-left: 30px;
+  text-decoration: none;
+  padding: 6px;
+  font-size: 20px;
+}
+
+.navbar a:hover{
+  color: red;
+}
+
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.list-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid darkgray;
+}
+
+.list-preview:hover{
+  box-shadow: 1px 3px 5px darkolivegreen;
+}
+
+
+.list-preview h2{
+  font-size: 25px;
+  color: deeppink;
+  margin-bottom: 10px;
+  
+  
+}
+
+.list-preview a{
+  text-decoration: none;
+}
+
+.add{
+  max-width: 400px;
+  margin: 0% auto;
+  text-align: center;
+}
+
+.add label{
+  text-align: left;
+  display: block;
+  font-size: 20px;
+}
+
+.add h2{
+  font-size: 30px;
+  color: red;
+  margin-bottom: 30px;
+}
+
+.add button{
+  background-color: lightblue ;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+button{
+    background-color: lightblue ;
+  padding: 10px;
+  border-radius: 8px;
+  font-weight: 600px;
+}
+
+
+.add input, .add textarea, .add select{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border:2px solid lightgreen;
+  border-radius: 6px;
+  box-sizing: border-box;
+  display: block;
+}
+
+.todo-details h2{
+  font-size: 25px;
+  color: firebrick;
+  margin-bottom: 10px;
+}
+
+.todo-details div{
+  margin: 20px 0;
+  font-size: 20px;
+}
+
+.todo-details p{
+  margin: 20px 0;
+  font-size: 20px;
+}
