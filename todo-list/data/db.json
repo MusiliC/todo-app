@@ -11,6 +11,12 @@
       "task": "watch ktn2 at 8pm Mr Eazy",
       "owner": "Musili",
       "id": 5
+    },
+    {
+      "day": "Monday",
+      "task": "Going for walk",
+      "owner": "ngea",
+      "id": 6
     }
   ]
 }

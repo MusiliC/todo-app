@@ -26,7 +26,7 @@ const handleClick=() =>{
                 <div> { list.task}</div>
                 <button onClick={handleClick}>Delete</button><br/><br/>
                 <form>
-                <button>Add..</button>
+                
                 </form>
             </article>
         )}
